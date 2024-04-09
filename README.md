@@ -4,9 +4,9 @@ Dive into the data job market!Focusing on Data Analyst roles, this project explo
 
 SQL queries? Check them out more here:[project_sql folder](/project_sql/)
 # Background
-Following my Google Data Analytics certificate from [Coursera](), I was really hungry to improve my SQL skills and as I was going thruogh youtube I came across this amaizing SQL course from [Luke Barousse]() the Data Nerd. It is well structured, easy to follow and taught me new skills that I am using in my other projects.
+Following my Google Data Analytics certificate from [Coursera](), I was really hungry to improve my SQL skills and as I was going thruogh youtube I came across this amaizing SQL course from [Luke Barousse](https://www.youtube.com/@LukeBarousse) the Data Nerd. It is well structured, easy to follow and taught me new skills that I am using in my other projects.
 
-Special thanks to Luke and ... for this amazing SQL course and thank you for sharing your invaluable knowledge with the world.
+Special thanks to Luke and Kelly Adams for this amazing SQL course and thank you for sharing your invaluable knowledge with the world.
 
 ### The questions answered in the Analysis
 1. What are the top-paying Data Analyst jobs?
