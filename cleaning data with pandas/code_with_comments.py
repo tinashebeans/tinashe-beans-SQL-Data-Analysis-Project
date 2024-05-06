@@ -70,4 +70,4 @@ df.reset_index(drop= True, inplace= True)
 
 #use .to_string() so that the console doesn't trancate the output
 print(df.to_string())
-#df.pd.set_option("display.max_colwidth", None)
+#df.pd.set_option("display.max_colwidth", None) hhhh
